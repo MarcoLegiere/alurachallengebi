@@ -1,7 +1,7 @@
 # Alura Challenge BI
 Desenvolvido durante o desafio Alura Challenge BI.
 
-LINK: https://app.powerbi.com/view?r=eyJrIjoiYjlkZWZjMjUtOTUxMi00NjBkLTg0ZWItZjBkNmM5ODAxZDBiIiwidCI6IjM0ZWIzOTBmLWIxY2EtNDhhNC1iZWI1LTZjZTAwY2RlYmFlMiJ9
+LINK: https://app.powerbi.com/view?r=eyJrIjoiYjlkZWZjMjUtOTUxMi00NjBkLTg0ZWItZjBkNmM5ODAxZDBiIiwidCI6IjM0ZWIzOTBmLWIxY2EtNDhhNC1iZWI1LTZjZTAwY2RlYmFlMiJ9&pageName=ReportSection5477f029203e0c4d3469
 
 # PRIMEIRA SEMANA: ALURALOG
 
