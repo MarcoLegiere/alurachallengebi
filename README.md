@@ -58,3 +58,31 @@ LINK: https://app.powerbi.com/view?r=eyJrIjoiOTNiMDUyZGUtMjQ3Zi00MDA5LWI2MjItYWE
   * :heavy_check_mark:  Task 8: Calcular a taxa de conversão.
  
   * :triangular_flag_on_post: Trello: https://trello.com/b/PpZLrM8l/challenge-bi-semana-2
+ 
+ # 
+# 
+<br>
+<br>
+<br>
+<br>
+<br>
+:rocket: <strong> TERCEIRA SEMANA: ALURASTORE
+<br>
+<br>
+
+
+LINK: https://app.powerbi.com/view?r=eyJrIjoiYWVlYmY4ZTEtNWY4NS00YWU0LWFiNGItMGRjM2FlYTRkNTljIiwidCI6IjM0ZWIzOTBmLWIxY2EtNDhhNC1iZWI1LTZjZTAwY2RlYmFlMiJ9&pageName=ReportSection
+
+![image](https://user-images.githubusercontent.com/27151928/135756043-37b9ea03-d7b0-4193-a152-582568e0f251.png)
+#
+ 
+  * :heavy_check_mark:	 Task 1: Calcular a receita.
+  * :heavy_check_mark:	 Task 2: Calcular o Lucro.
+  * :heavy_check_mark:	 Task 3: Exibir os custos.
+  * :heavy_check_mark:  Task 4: Calcular e exibir a despesa.
+  * :heavy_check_mark:  Task 5: Analisar e exibir mensalmente as métricas.
+  * :heavy_check_mark:  Task 6: Escolher o ano a ser analisado.
+  * :heavy_check_mark:  Task 7: Análise de cenário.
+ 
+  * :triangular_flag_on_post: Trello: https://trello.com/b/NcxUeEYz/challenge-bi-semana-3-4
+
