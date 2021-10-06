@@ -86,6 +86,8 @@ LINK: https://app.powerbi.com/view?r=eyJrIjoiYWVlYmY4ZTEtNWY4NS00YWU0LWFiNGItMGR
  
   * :triangular_flag_on_post: Trello: https://trello.com/b/NcxUeEYz/challenge-bi-semana-3-4
 
+ # 
+# 
 <br>
 <br>
 <br>
