@@ -86,3 +86,17 @@ LINK: https://app.powerbi.com/view?r=eyJrIjoiYWVlYmY4ZTEtNWY4NS00YWU0LWFiNGItMGR
  
   * :triangular_flag_on_post: Trello: https://trello.com/b/NcxUeEYz/challenge-bi-semana-3-4
 
+<br>
+<br>
+<br>
+<br>
+<br>
+:rocket: <strong> QUARTA SEMANA: CURRÍCULO
+<br>
+<br>
+ 
+ LINK: https://app.powerbi.com/view?r=eyJrIjoiNzBjOGNkOTUtZjdkNC00YzA3LTkxMzMtNjZjZWFhMTg1YWI4IiwidCI6IjM0ZWIzOTBmLWIxY2EtNDhhNC1iZWI1LTZjZTAwY2RlYmFlMiJ9
+ 
+ ![image](https://user-images.githubusercontent.com/27151928/136260496-c4cee1d9-3029-4205-b836-063cd4cb1789.png)
+ 
+  * :heavy_check_mark:	 Task 1: Elaboração de um currículo no powerbi.
